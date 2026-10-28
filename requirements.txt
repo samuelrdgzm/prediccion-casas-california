@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-pydantic
-pandas
-requests
-joblib
-scikit-learn==1.9.1
